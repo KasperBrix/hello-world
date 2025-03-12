@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Holy monkey this is not for sane monkeys. 
